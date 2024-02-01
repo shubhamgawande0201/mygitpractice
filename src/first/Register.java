@@ -8,6 +8,6 @@ public class Register {
 	}
         public void login()
         {
-        	System.out.println("Login user");
+        	System.out.println("Login user added");
         }
 }
