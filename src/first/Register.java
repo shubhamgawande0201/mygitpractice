@@ -6,5 +6,8 @@ public class Register {
 		
 		System.out.println("register user added");
 	}
-
+        public void login()
+        {
+        	System.out.println("Login user");
+        }
 }
